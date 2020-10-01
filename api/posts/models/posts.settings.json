@@ -31,6 +31,10 @@
       ],
       "plugin": "upload",
       "required": true
+    },
+    "tag": {
+      "type": "string",
+      "required": true
     }
   }
 }
